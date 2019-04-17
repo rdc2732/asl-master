@@ -1,3 +1,3 @@
 # asl_master
-Repository for asl-master project.  This project will be a django implementation of the asl-master database.
+Repository for asl_master project.  This project will be a django implementation of the ASL Master database.
 
